@@ -1,8 +1,8 @@
 # Housing Price Determination
 
-The goal is to predict housing prices using the Boston dataset. XGBoost 
+The goal is to predict housing prices using the Boston dataset using the ML model XGBoost. 
 
-Data preprocessing
+The following data operations were performed like Data preprocessing.
 
 Dataset plots
 
