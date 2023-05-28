@@ -8,4 +8,4 @@ Dataset plots
 
 Training the model: Regessor was used to fit the model. 
 
-Determine the Mean Absolute Error
+Mean Absolute Error and R-square error was determined on the test data to check the efficacy of the model. 
